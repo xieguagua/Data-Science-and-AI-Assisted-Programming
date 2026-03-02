@@ -1,5 +1,6 @@
 Data Science and AI-Assisted Programming
 This project is a hands-on tutorial designed for social science researchers, aimed at bridging the gap between traditional theoretical analysis and modern data science. Using the CGSS 2023 micro-survey data as a practical carrier, it systematically explains how to use programming tools and AI-assisted technologies to achieve a fully reproducible research workflow—from data cleaning to machine learning modeling—helping researchers conduct quantitative analysis efficiently and rigorously.
+
 📚 Table of Contents
 Introduction to Data Science and AI-Assisted ProgrammingThis chapter redefines the role of data science in social science: it is not just a collection of sophisticated algorithms, but a way of thinking to extract patterns from massive, messy data. We will explore how AI-assisted programming is revolutionizing the traditional research paradigm, freeing researchers from the burden of memorizing code syntax, and allowing them to focus on core research question definition and logical construction.
 Setting up the environment: Installing VSCode and plugins (or Trae)Two battle-tested environment configuration options are provided to suit different preferences:
